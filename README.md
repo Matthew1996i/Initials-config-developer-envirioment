@@ -4,7 +4,9 @@
 
 ## Node 14.19.0 por nvm
 
-```bash sudo apt install wget ```
+```bash 
+sudo apt install wget
+```
 ```bash
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
 ```
