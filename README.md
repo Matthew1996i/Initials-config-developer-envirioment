@@ -21,11 +21,13 @@ nvm install 14.19.0
 # Configurações iniciais do MacOS
 
 ## Install Brew
+```bash 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
+```
 ## Install Wget
+```bash 
 brew install wget
-
+```
 ## Node 14.19.0 por nvm
 
 ```bash 
